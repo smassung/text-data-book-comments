@@ -1,6 +1,6 @@
 # Text Data Analysis and Management: A Practical Introduction to Text Mining and Information Retrieval
 
-by [ChengXiang Zhai](http://web.engr.illinois.edu/~czhai/) and [Sean
+[ChengXiang Zhai](http://web.engr.illinois.edu/~czhai/) and [Sean
 Massung](http://web.engr.illinois.edu/~massung1/), [University of Illinois Computer Science Department](http://cs.illinois.edu/)
 
 ## Introduction
@@ -55,21 +55,21 @@ engines will be shown as a basis for supporting text analysis. Readers with
 sufficient background knowledge about these topics can skip part or all of this
 section.
 
-1. Introduction
-  1.1 Text data vs. structured data
-  1.2 Text data analysis and management
-  1.3 How to use this book
+ - Introduction
+   * Text data vs. structured data
+   * Text data analysis and management
+   * How to use this book
 
-2. Background
-  2.1 Basics of probability and statistics
-  2.2 Basics of machine learning
-  2.3 Natural language processing and text representation
+ - Background
+   * Basics of probability and statistics
+   * Basics of machine learning
+   * Natural language processing and text representation
 
-3. MeTA: A Modern Data Sciences Toolkit
-  3.1 Design philosophy
-  3.2 Architecture
-  3.3 Uses of MeTA
-  3.4 Exercises
+ - MeTA: A Modern Data Sciences Toolkit
+   * Design philosophy
+   * Architecture
+   * Uses of MeTA
+   * Exercises
 
 ## Part II: Text Data Access
 
@@ -89,27 +89,27 @@ recommender systems, covered in a later chapter. The chapter Interactive
 Information Access* will cover how the pull and push modes can be integrated in
 an interactive hybrid system, providing a unified view of text data access.
 
-4. Overview of text data access
-  4.1 Access mode: pull vs. push
-  4.2 Querying vs. browsing
-  4.3 Multimode interactive access
+ - Overview of text data access
+   * Access mode: pull vs. push
+   * Querying vs. browsing
+   * Multimode interactive access
 
-5. Search engines
-  5.1 Basic concepts of search engines
-  5.2 Information retrieval models
-  5.3 Implementation of search engines
-  5.4 Evaluation
-  5.5 Advanced techniques for improving search engines
-  5.6 Web search engines
-  5.7 Exercises
+ - Search engines
+   * Basic concepts of search engines
+   * Information retrieval models
+   * Implementation of search engines
+   * Evaluation
+   * Advanced techniques for improving search engines
+   * Web search engines
+   * Exercises
 
-6. Recommender systems
-  6.1 Content-based recommendation
-  6.2 Collaborative filtering
-  6.3 Hybrid recommender systems
-  6.4 Evaluation
-  6.5 Applications
-  6.6 Exercises
+ - Recommender systems
+   * Content-based recommendation
+   * Collaborative filtering
+   * Hybrid recommender systems
+   * Evaluation
+   * Applications
+   * Exercises
 
 ## Part III: Text Data Analysis
 
@@ -124,50 +124,50 @@ application scenario where we have available both unstructured text data and
 companion structured data, and would prefer analyzing all the data for solving
 a particular application problem.
 
-7. Overview of text data analysis
-  7.1 Text analysis vs. text management
-  7.2 Deep analysis vs. shallow analysis
-  7.3 A conceptual framework for text analytics
+ - Overview of text data analysis
+   * Text analysis vs. text management
+   * Deep analysis vs. shallow analysis
+   * A conceptual framework for text analytics
 
-8. Text clustering
-  8.1 Overview of clustering techniques
-  8.2 Document clustering
-  8.3 Term clustering
-  8.4 Evaluation
-  8.5 Applications
-  8.6 Exercises
+ - Text clustering
+   * Overview of clustering techniques
+   * Document clustering
+   * Term clustering
+   * Evaluation
+   * Applications
+   * Exercises
 
-9. Text categorization
-  9.1 Overview of text categorization techniques
-  9.2 Features for text categorization
-  9.3 Evaluation
-  9.4 Applications
-  9.5 Exercises
+ - Text categorization
+   * Overview of text categorization techniques
+   * Features for text categorization
+   * Evaluation
+   * Applications
+   * Exercises
 
-10. Topic analysis
-  10.1 Overview of topic analysis techniques
-  10.2 Basic topic models
-  10.3 Advanced topic models
-  10.4 Evaluation
-  10.5 Applications
-  10.6 Exercises
+ - Topic analysis
+   * Overview of topic analysis techniques
+   * Basic topic models
+   * Advanced topic models
+   * Evaluation
+   * Applications
+   * Exercises
 
-11. Text summarization
-  11.1 Overview of text summarization techniques
-  11.2 Extractive text summarization
-  11.3 Abstractive text summarization
-  11.4 Query-specific text summarization
-  11.5 Evaluation
-  11.6 Applications
-  11.7 Exercises
+ - Text summarization
+   * Overview of text summarization techniques
+   * Extractive text summarization
+   * Abstractive text summarization
+   * Query-specific text summarization
+   * Evaluation
+   * Applications
+   * Exercises
 
-12. Joint analysis of text and structured data
-  12.1 Context and companion structured data of text
-  12.2 Contextualized text analysis
-  12.3 Integrated analysis of text and structured data
-  12.4 Evaluation
-  12.5 Applications
-  12.6 Exercises
+ - Joint analysis of text and structured data
+   * Context and companion structured data of text
+   * Contextualized text analysis
+   * Integrated analysis of text and structured data
+   * Evaluation
+   * Applications
+   * Exercises
 
 ## Part IV: Application System Development with MeTA
 
@@ -184,16 +184,16 @@ specific application problems. The last chapter provides information about how
 people can contribute to the development of MeTA, which we expect to be an
 ongoing effort with a dedicated website and regular open source releases.
 
-13. A unified conceptual framework for text analysis
-  13.1 An algebra for text analytics
-  13.2 Implementation of analysis operators
-  13.3 Workspace management
-  13.4 Workflow support and optimization
+ - A unified conceptual framework for text analysis
+   * An algebra for text analytics
+   * Implementation of analysis operators
+   * Workspace management
+   * Workflow support and optimization
 
-14. MeTA for text analysis and management
-  14.1 Overview of MeTA modules
-  14.2 MeTA API
-  14.3 Other text analysis and management toolkits
-  14.4 Sample applications
+ - MeTA for text analysis and management
+   * Overview of MeTA modules
+   * MeTA API
+   * Other text analysis and management toolkits
+   * Sample applications
 
-15. Contributing to MeTA
+ - Contributing to MeTA
