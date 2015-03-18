@@ -1,7 +1,7 @@
-# Text Data Analysis and Management: A Practical Introduction to Text Mining and
-Information Retrieval
+# Text Data Analysis and Management: A Practical Introduction to Text Mining and Information Retrieval
 
-by ChengXiang Zhai and Sean Massung
+by [ChengXiang Zhai](http://web.engr.illinois.edu/~czhai/) and [Sean
+Massung](http://web.engr.illinois.edu/~massung1/), [University of Illinois Computer Science Department](http://cs.illinois.edu/)
 
 ## Introduction
 
