@@ -130,10 +130,17 @@ an interactive hybrid system, providing a unified view of text data access.
  - Search engines
    * Basic concepts of search engines
    * Information retrieval models
-   * Implementation of search engines
    * Evaluation
    * Advanced techniques for improving search engines
    * Web search engines
+   * Exercises
+
+ - Search engine implementation
+   * Tokenizer
+   * Indexer
+   * Scorer
+   * Compression
+   * Caching
    * Exercises
 
  - Recommender systems
