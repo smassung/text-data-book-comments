@@ -127,12 +127,13 @@ an interactive hybrid system, providing a unified view of text data access.
    * Querying vs. browsing
    * Multimode interactive access
 
- - Search engines
-   * Basic concepts of search engines
-   * Information retrieval models
-   * Evaluation
-   * Advanced techniques for improving search engines
-   * Web search engines
+ - Text Retrieval
+   * Overview
+   * Text retrieval vs database retrieval
+   * Document selection vs document ranking
+   * Vector space models
+   * Probabilistic retrieval models
+   * Feedback
    * Exercises
 
  - Search engine implementation
@@ -141,6 +142,24 @@ an interactive hybrid system, providing a unified view of text data access.
    * Scorer
    * Compression
    * Caching
+   * Exercises
+
+ - Search engine evaluation
+   * Overview
+   * Cranfield evaluation methodology
+   * Evaluation of set retrieval
+   * Evaluation of a ranked list
+   * Evaluation with multi-level judgements
+   * Practical issues in evaluation
+   * Exercises
+
+ - Web search engines
+   * Overview
+   * Web crawling
+   * Web indexing
+   * Link analysis
+   * Learning to rank
+   * Other Web search techniques
    * Exercises
 
  - Recommender systems
