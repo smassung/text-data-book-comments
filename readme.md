@@ -98,10 +98,12 @@ section.
    * Basics of machine learning
    * Natural language processing and text representation
 
- - MeTA: A Modern Data Sciences Toolkit
+ - [MeTA: A Modern Data Sciences
+   Toolkit](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter03-MeTA.pdf) (Draft from 2 April 2015)
    * Design philosophy
+   * Setting up MeTA
    * Architecture
-   * Uses of MeTA
+   * Tokenization with MeTA
    * Exercises
 
 ## Part II: Text Data Access
