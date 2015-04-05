@@ -78,15 +78,14 @@ relevant problems in analyzing and managing text data.
 This part provides an overview of the motivation and high-level concepts of the
 book, and gives readers a roadmap for navigating through the chapters in the
 later parts. It also includes a background chapter where basic concepts in
-probability and statistics, machine learning, and natural language processing
-are introduced so that readers without any knowledge in these areas will have
-the necessary background to understand the materials later. This part further
-includes one chapter on the [MeTA](http://meta-toolkit.github.io/meta/) toolkit,
-which will be the basis for many exercises later. We use this chapter to
-introduce the typical architecture of a text mining system, where the search
-engines will be shown as a basis for supporting text analysis. Readers with
-sufficient background knowledge about these topics can skip part or all of this
-section.
+probability and statistics and natural language processing are introduced so
+that readers without any knowledge in these areas will have the necessary
+background to understand the materials later. This part further includes one
+chapter on the [MeTA](http://meta-toolkit.github.io/meta/) toolkit, which will
+be the basis for many exercises later. We use this chapter to introduce the
+typical architecture of a text mining system, where the search engines will be
+shown as a basis for supporting text analysis. Readers with sufficient
+background knowledge about these topics can skip part or all of this section.
 
  - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 4 April 2015)
    * Text data vs. structured data
