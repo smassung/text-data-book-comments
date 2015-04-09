@@ -93,13 +93,14 @@ background knowledge about these topics can skip part or all of this section.
    * Conceptual framework for text information systems
    * How to use this book
 
- - Background
+ - [Background](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter02-Background.pdf) (Draft from 8 April 2015)
    * Basics of probability and statistics
-   * Basics of machine learning
-   * Natural language processing and text representation
+   * Basics of natural language processing
+   * Statistical language models
+   * Exercises
 
  - [MeTA: A Modern Data Sciences
-   Toolkit](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter03-MeTA.pdf) (Draft from 4 April 2015)
+   Toolkit](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter03-MeTA.pdf) (Draft from 8 April 2015)
    * Design philosophy
    * Setting up MeTA
    * Architecture
