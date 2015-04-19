@@ -123,7 +123,8 @@ users. The main technology supporting *pull* is search engines which are covered
 in detail in one long chapter. The main technology supporting *push* is
 recommender systems, covered in a later chapter.
 
- - Overview of Text Data Access
+ - [Overview of Text Data
+   Access](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter04-Access.pdf) (Draft from 19 April 2015. *This short chapter will most likely be merged into another chapter*)
    * Access mode: pull *vs* push
    * Multimode interactive access
    * Exercises
