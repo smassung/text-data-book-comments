@@ -88,7 +88,7 @@ shown as a basis for supporting text analysis. Readers with sufficient
 background knowledge about these topics can skip part or all of this section.
 
  - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 4 April 2015)
-   * Text data vs. structured data
+   * Text data *vs* structured data
    * Functions of text information systems
    * Conceptual framework for text information systems
    * How to use this book
@@ -121,25 +121,23 @@ users take the initiative to fetch relevant information out from the system, and
 *push*, where the system takes the initiative to offer relevant information to
 users. The main technology supporting *pull* is search engines which are covered
 in detail in one long chapter. The main technology supporting *push* is
-recommender systems, covered in a later chapter. The chapter Interactive
-Information Access* will cover how the pull and push modes can be integrated in
-an interactive hybrid system, providing a unified view of text data access.
+recommender systems, covered in a later chapter.
 
- - Overview of text data access
-   * Access mode: pull vs. push
-   * Querying vs. browsing
+ - Overview of Text Data Access
+   * Access mode: pull *vs* push
    * Multimode interactive access
+   * Exercises
 
  - Text Retrieval
    * Overview
-   * Text retrieval vs database retrieval
-   * Document selection vs document ranking
+   * Text retrieval *vs* database retrieval
+   * Document selection *vs* document ranking
    * Vector space models
    * Probabilistic retrieval models
    * Feedback
    * Exercises
 
- - Search engine implementation
+ - Search Engine Implementation
    * Tokenizer
    * Indexer
    * Scorer
@@ -147,7 +145,7 @@ an interactive hybrid system, providing a unified view of text data access.
    * Caching
    * Exercises
 
- - Search engine evaluation
+ - Search Engine Evaluation
    * Overview
    * Cranfield evaluation methodology
    * Evaluation of set retrieval
@@ -156,7 +154,7 @@ an interactive hybrid system, providing a unified view of text data access.
    * Practical issues in evaluation
    * Exercises
 
- - Web search engines
+ - Web Search Engines
    * Overview
    * Web crawling
    * Web indexing
@@ -165,7 +163,7 @@ an interactive hybrid system, providing a unified view of text data access.
    * Other Web search techniques
    * Exercises
 
- - Recommender systems
+ - Recommender Systems
    * Content-based recommendation
    * Collaborative filtering
    * Hybrid recommender systems
@@ -186,12 +184,12 @@ application scenario where we have available both unstructured text data and
 companion structured data, and would prefer analyzing all the data for solving
 a particular application problem.
 
- - Overview of text data analysis
-   * Text analysis vs. text management
-   * Deep analysis vs. shallow analysis
+ - Overview of Text Data Analysis
+   * Text analysis *vs* text management
+   * Deep analysis *vs* shallow analysis
    * A conceptual framework for text analytics
 
- - Text clustering
+ - Text Clustering
    * Overview of clustering techniques
    * Document clustering
    * Term clustering
@@ -199,14 +197,14 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Text categorization
+ - Text Categorization
    * Overview of text categorization techniques
    * Features for text categorization
    * Evaluation
    * Applications
    * Exercises
 
- - Topic analysis
+ - Topic Analysis
    * Overview of topic analysis techniques
    * Basic topic models
    * Advanced topic models
@@ -214,7 +212,7 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Text summarization
+ - Text Summarization
    * Overview of text summarization techniques
    * Extractive text summarization
    * Abstractive text summarization
@@ -223,7 +221,7 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Joint analysis of text and structured data
+ - Joint Analysis of Text and Structured Data
    * Context and companion structured data of text
    * Contextualized text analysis
    * Integrated analysis of text and structured data
@@ -246,13 +244,13 @@ specific application problems. The last chapter provides information about how
 people can contribute to the development of MeTA, which we expect to be an
 ongoing effort with a dedicated website and regular open source releases.
 
- - A unified conceptual framework for text analysis
+ - A Unified Conceptual Framework for Text Analysis
    * An algebra for text analytics
    * Implementation of analysis operators
    * Workspace management
    * Workflow support and optimization
 
- - MeTA for text analysis and management
+ - MeTA for Text Analysis and Management
    * Overview of MeTA modules
    * MeTA API
    * Other text analysis and management toolkits
