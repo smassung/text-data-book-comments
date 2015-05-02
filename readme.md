@@ -93,7 +93,7 @@ background knowledge about these topics can skip part or all of this section.
    * Conceptual framework for text information systems
    * How to use this book
 
- - [Background](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter02-Background.pdf) (Draft from 8 April 2015)
+ - [Background](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter02-Background.pdf) (Draft from 2 May 2015)
    * Basics of probability and statistics
    * Basics of natural language processing
    * Statistical language models
