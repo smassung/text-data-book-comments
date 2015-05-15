@@ -138,10 +138,13 @@ recommender systems, covered in a later chapter.
    * Feedback
    * Exercises
 
- - Search Engine Implementation
+ - [Search Engine
+   Implementation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Search-Engine-Implementation.pdf)
+   (Draft from 15 May 2015)
    * Tokenizer
    * Indexer
    * Scorer
+   * Feedback
    * Compression
    * Caching
    * Exercises
