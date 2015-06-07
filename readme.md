@@ -201,11 +201,12 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Text Categorization
-   * Overview of text categorization techniques
+ - [Text
+   Categorization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Categorization.pdf) (Draft from 7 June 2015)
+   * Overview of text categorization
    * Features for text categorization
+   * Classification algorithms
    * Evaluation
-   * Applications
    * Exercises
 
  - Topic Analysis
