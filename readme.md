@@ -217,11 +217,11 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Text Summarization
+ - [Text
+   Summarization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter14-Summarization.pdf) (Draft from 23 June 2015)
    * Overview of text summarization techniques
    * Extractive text summarization
    * Abstractive text summarization
-   * Query-specific text summarization
    * Evaluation
    * Applications
    * Exercises
