@@ -149,9 +149,10 @@ recommender systems, covered in a later chapter.
    * Caching
    * Exercises
 
- - Search Engine Evaluation
-   * Overview
-   * Cranfield evaluation methodology
+ - [Search Engine
+   Evaluation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chap07-Search-Engine-Evaluation.pdf)
+   (Draft from 30 July 2015)
+   * Introduction
    * Evaluation of set retrieval
    * Evaluation of a ranked list
    * Evaluation with multi-level judgements
