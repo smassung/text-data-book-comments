@@ -129,13 +129,13 @@ recommender systems, covered in a later chapter.
    * Multimode interactive access
    * Exercises
 
- - Text Retrieval
-   * Overview
+ - [Text
+   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Text-Retrieval.pdf) (Draft from 17 August 2015)
+   * The text retrieval problem
    * Text retrieval *vs* database retrieval
    * Document selection *vs* document ranking
-   * Vector space models
-   * Probabilistic retrieval models
-   * Feedback
+   * Vector space retrieval models
+   * Probabilistic retrieval models *(to be expanded!)*
    * Exercises
 
  - [Search Engine
