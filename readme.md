@@ -130,12 +130,12 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Text
-   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Text-Retrieval.pdf) (Draft from 17 August 2015)
+   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Text-Retrieval.pdf) (Draft from 18 October 2015)
    * The text retrieval problem
    * Text retrieval *vs* database retrieval
    * Document selection *vs* document ranking
    * Vector space retrieval models
-   * Probabilistic retrieval models *(to be expanded!)*
+   * Probabilistic retrieval models
    * Exercises
 
  - [Search Engine
@@ -150,7 +150,7 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Search Engine
-   Evaluation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chap07-Search-Engine-Evaluation.pdf)
+   Evaluation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter07-Search-Engine-Evaluation.pdf)
    (Draft from 30 July 2015)
    * Introduction
    * Evaluation of set retrieval
