@@ -138,6 +138,12 @@ recommender systems, covered in a later chapter.
    * Probabilistic retrieval models
    * Exercises
 
+ - Feedback *(coming soon in October 2015!)*
+   * Feedback in information retrieval systems
+   * Applications to vector space models
+   * Applications to probabilistic models
+   * Exercises
+
  - [Search Engine
    Implementation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Search-Engine-Implementation.pdf)
    (Draft from 15 May 2015)
