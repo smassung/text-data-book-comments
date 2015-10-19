@@ -138,10 +138,9 @@ recommender systems, covered in a later chapter.
    * Probabilistic retrieval models
    * Exercises
 
- - Feedback *(coming soon in October 2015!)*
-   * Feedback in information retrieval systems
-   * Applications to vector space models
-   * Applications to probabilistic models
+ - [Feedback](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Feedback.pdf) (Draft from 19 October 2015)
+   * Feedback in the vector space model
+   * Feedback in language models
    * Exercises
 
  - [Search Engine
@@ -174,7 +173,7 @@ recommender systems, covered in a later chapter.
    * Other Web search techniques
    * Exercises
 
- - Recommender Systems
+ - Recommender Systems *(coming soon in October 2015!)*
    * Content-based recommendation
    * Collaborative filtering
    * Hybrid recommender systems
