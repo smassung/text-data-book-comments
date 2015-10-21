@@ -199,12 +199,12 @@ a particular application problem.
    * Deep analysis *vs* shallow analysis
    * A conceptual framework for text analytics
 
- - Text Clustering
+ - [Text
+   Clustering](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Clustering.pdf) (Draft from 21 October 2015)
    * Overview of clustering techniques
    * Document clustering
    * Term clustering
    * Evaluation
-   * Applications
    * Exercises
 
  - [Text
