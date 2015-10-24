@@ -173,12 +173,10 @@ recommender systems, covered in a later chapter.
    * Other Web search techniques
    * Exercises
 
- - Recommender Systems *(coming soon in October 2015!)*
+ - [Recommender
+   Systems](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter10-Recommender-Systems.pdf) (Draft from 24 October 2015)
    * Content-based recommendation
    * Collaborative filtering
-   * Hybrid recommender systems
-   * Evaluation
-   * Applications
    * Exercises
 
 ## Part III: Text Data Analysis
