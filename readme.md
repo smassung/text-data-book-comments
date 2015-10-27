@@ -130,7 +130,7 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Text
-   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Text-Retrieval.pdf) (Draft from 25 October 2015)
+   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Text-Retrieval.pdf) (Draft from 26 October 2015)
    * The text retrieval problem
    * Text retrieval *vs* database retrieval
    * Document selection *vs* document ranking
