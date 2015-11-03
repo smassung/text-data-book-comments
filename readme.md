@@ -164,13 +164,13 @@ recommender systems, covered in a later chapter.
    * Practical issues in evaluation
    * Exercises
 
- - Web Search Engines
-   * Overview
+ - [Web
+   Search](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter09-Web-Search.pdf) (Draft from 2 November 2015)
    * Web crawling
    * Web indexing
    * Link analysis
    * Learning to rank
-   * Other Web search techniques
+   * The future of Web search
    * Exercises
 
  - [Recommender
