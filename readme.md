@@ -192,10 +192,10 @@ application scenario where we have available both unstructured text data and
 companion structured data, and would prefer analyzing all the data for solving
 a particular application problem.
 
- - Overview of Text Data Analysis
-   * Text analysis *vs* text management
-   * Deep analysis *vs* shallow analysis
-   * A conceptual framework for text analytics
+ - [Overview of Text Data
+   Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter11-Text-Analysis-Overview.pdf) (Draft from 3 November 2015)
+   * Overview of text mining and data analytics
+   * Text vs. non-text data: humans as subjective sensors
 
  - [Text
    Clustering](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Clustering.pdf) (Draft from 21 October 2015)
