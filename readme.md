@@ -197,6 +197,8 @@ a particular application problem.
    * Overview of text mining and data analytics
    * Text vs. non-text data: humans as subjective sensors
 
+ - Word Association Mining
+
  - [Text
    Clustering](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Clustering.pdf) (Draft from 21 October 2015)
    * Overview of clustering techniques
@@ -212,6 +214,8 @@ a particular application problem.
    * Classification algorithms
    * Evaluation
    * Exercises
+
+ - Opinion Mining and Sentiment Analysis
 
  - Topic Analysis
    * Overview of topic analysis techniques
