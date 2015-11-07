@@ -52,7 +52,7 @@ typical architecture of a text mining system, where the search engines will be
 shown as a basis for supporting text analysis. Readers with sufficient
 background knowledge about these topics can skip part or all of this section.
 
- - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 4 April 2015)
+ - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 7 November 2015)
    * Text data *vs* structured data
    * Functions of text information systems
    * Conceptual framework for text information systems
