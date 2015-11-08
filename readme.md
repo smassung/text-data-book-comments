@@ -215,31 +215,10 @@ a particular application problem.
    * Applications
    * Exercises
 
-## Part IV: Application System Development with MeTA
-
-This last part of the book discusses how to use MeTA to develop an application
-system for text analysis and management. It has two chapters. The first is
-about a unified conceptual framework for integrating text data access and text
-data analysis and preliminary ideas about how to design an algebra for text
-analysis with multiple analysis operators that can be combined in a flexible
-way to support different analysis workflows. The second is a detailed
-discussion of how different components in MeTA can be combined in interesting
-ways to support complex analysis workflows; it helps readers learn how to use
-or adapt MeTA to develop useful text information systems to solve their
-specific application problems. The last chapter provides information about how
-people can contribute to the development of MeTA, which we expect to be an
-ongoing effort with a dedicated website and regular open source releases.
-
  - A Unified Conceptual Framework for Text Analysis
    * An algebra for text analytics
    * Implementation of analysis operators
    * Workspace management
    * Workflow support and optimization
-
- - MeTA for Text Analysis and Management
-   * Overview of MeTA modules
-   * MeTA API
-   * Other text analysis and management toolkits
-   * Sample applications
-
- - Contributing to MeTA
+   * MeTA for Text Analysis and Management
+   * Contributing to MeTA
