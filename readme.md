@@ -52,20 +52,20 @@ typical architecture of a text mining system, where the search engines will be
 shown as a basis for supporting text analysis. Readers with sufficient
 background knowledge about these topics can skip part or all of this section.
 
- - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 7 November 2015)
-   * Text data *vs* structured data
-   * Functions of text information systems
-   * Conceptual framework for text information systems
-   * How to use this book
+ - [Introduction](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter01-Intro.pdf) (Draft from 8 November 2015)
+   * Text Data *vs* Structured Data
+   * Functions of Text Information Systems
+   * Conceptual Framework for Text Information Systems
+   * How to Use This Book
 
- - [Background](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter02-Background.pdf) (Draft from 7 November 2015)
-   * Probability and statistics
+ - [Background](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter02-Background.pdf) (Draft from 8 November 2015)
+   * Probability and Statistics
    * Information Theory
    * Machine Learning
    * Exercises
 
  - [Text Data
-   Understanding](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter03-Text-Data-Understanding.pdf) (Draft from 7 November 2015)
+   Understanding](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter03-Text-Data-Understanding.pdf) (Draft from 8 November 2015)
    * History and State of the Art in NLP
    * NLP and Text Information Systems
    * Text Representation
