@@ -106,13 +106,13 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Retrieval Models](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Retrieval-Models.pdf) (Draft from 8 November 2015)
-   * Vector space Retrieval Models
+   * Vector Space Retrieval Models
    * Probabilistic Retrieval Models
    * Exercises
 
- - [Feedback](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Feedback.pdf) (Draft from 19 October 2015)
-   * Feedback in the vector space model
-   * Feedback in language models
+ - [Feedback](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Feedback.pdf) (Draft from 8 November 2015)
+   * Feedback in the Vector Space Model
+   * Feedback in Language Models
    * Exercises
 
  - [Search Engine
