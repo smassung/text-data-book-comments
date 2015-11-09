@@ -105,10 +105,9 @@ recommender systems, covered in a later chapter.
    * Document Selection *vs* Document Ranking
    * Exercises
 
- - [Text
-   Retrieval](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Retrieval-Models.pdf) (Draft from 7 November 2015)
-   * Vector space retrieval models
-   * Probabilistic retrieval models
+ - [Retrieval Models](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Retrieval-Models.pdf) (Draft from 8 November 2015)
+   * Vector space Retrieval Models
+   * Probabilistic Retrieval Models
    * Exercises
 
  - [Feedback](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Feedback.pdf) (Draft from 19 October 2015)
