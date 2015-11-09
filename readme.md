@@ -116,8 +116,8 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Search Engine
-   Implementation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter06-Search-Engine-Implementation.pdf)
-   (Draft from 15 May 2015)
+   Implementation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter08-Search-Engine-Implementation.pdf)
+   (Draft from 8 November 2015)
    * Tokenizer
    * Indexer
    * Scorer
@@ -127,13 +127,13 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Search Engine
-   Evaluation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter07-Search-Engine-Evaluation.pdf)
-   (Draft from 30 July 2015)
+   Evaluation](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter09-Search-Engine-Evaluation.pdf)
+   (Draft from 8 November 2015)
    * Introduction
-   * Evaluation of set retrieval
-   * Evaluation of a ranked list
-   * Evaluation with multi-level judgements
-   * Practical issues in evaluation
+   * Evaluation of Set Retrieval
+   * Evaluation of a Ranked List
+   * Evaluation with Multi-level Judgements
+   * Practical Issues in Evaluation
    * Exercises
 
  - [Web
