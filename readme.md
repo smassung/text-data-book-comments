@@ -3,8 +3,6 @@
 [ChengXiang Zhai](http://web.engr.illinois.edu/~czhai/) and [Sean
 Massung](http://web.engr.illinois.edu/~massung1/), [UIUC Computer Science Department](http://cs.illinois.edu/)
 
-## This GitHub Page
-
 This page has been created for two purposes:
 
 ### Hold links to draft chapters
@@ -35,6 +33,8 @@ a new issue, you can select one or more of the following labels for it:
 
 We will add more issue labels if necessary. Thanks for your help in creating
 this book!
+
+## Abstract
 
  - [Abstract](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-abstract.pdf) (Draft from 7 November 2015)
 
@@ -171,7 +171,7 @@ a particular application problem.
    * Text vs. Non-text Data: Humans as Subjective Sensors
 
  - [Word Association
-   Mining](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter13-Word-Association-Mining.pdf) (Draft from 8 November 2015) **(still needs proofreading)**
+   Mining](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter13-Word-Association-Mining.pdf) (Draft from 8 November 2015) *(still needs proofreading)*
    * General Idea of Word Association Mining
    * Discovery of Paradigmatic Relations
    * Discovery of Syntagmatic Relations
@@ -222,3 +222,5 @@ a particular application problem.
    * Workflow support and optimization
    * MeTA for Text Analysis and Management
    * Contributing to MeTA
+
+## Appendix
