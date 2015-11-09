@@ -224,3 +224,11 @@ a particular application problem.
    * Contributing to MeTA
 
 ## Appendix
+
+ - [Appendix
+   A: Bayesian Statistics](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-appendix.pdf) (Draft from 8 November 2015)
+
+ - Appendix B: A Note on the Expectation-Maximization Algorithm
+
+ - Appendix C: A Note on the KL-divergence Retrieval Formula and Dirichlet Prior
+   Smoothing
