@@ -97,12 +97,12 @@ in detail in one long chapter. The main technology supporting *push* is
 recommender systems, covered in a later chapter.
 
  - [Overview of Text Data
-   Access](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Overview-Text-Data-Access.pdf) (Draft from 7 November 2015)
-   * Access mode: pull *vs* push
-   * Multimode interactive access
-   * The text retrieval problem
-   * Text retrieval *vs* database retrieval
-   * Document selection *vs* document ranking
+   Access](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter05-Overview-Text-Data-Access.pdf) (Draft from 8 November 2015)
+   * Access Mode: Pull *vs* Push
+   * Multimode Interactive Access
+   * Text Retrieval
+   * Text Retrieval *vs* Database Retrieval
+   * Document Selection *vs* Document Ranking
    * Exercises
 
  - [Text
