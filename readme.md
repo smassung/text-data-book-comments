@@ -73,7 +73,7 @@ background knowledge about these topics can skip part or all of this section.
    * Exercises
 
  - [MeTA: A Modern Data Sciences
-   Toolkit](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter04-MeTA.pdf) (Draft from 7 November 2015)
+   Toolkit](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter04-MeTA.pdf) (Draft from 8 November 2015)
    * Design philosophy
    * Setting up MeTA
    * Architecture
