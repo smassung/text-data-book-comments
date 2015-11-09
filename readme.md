@@ -137,18 +137,19 @@ recommender systems, covered in a later chapter.
    * Exercises
 
  - [Web
-   Search](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter09-Web-Search.pdf) (Draft from 2 November 2015)
-   * Web crawling
-   * Web indexing
-   * Link analysis
-   * Learning to rank
-   * The future of Web search
+   Search](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter10-Web-Search.pdf) (Draft from 8 November 2015)
+   * Web Crawling
+   * Web Indexing
+   * Link Analysis
+   * Learning to Rank
+   * The Future of Web Search
    * Exercises
 
  - [Recommender
-   Systems](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter10-Recommender-Systems.pdf) (Draft from 24 October 2015)
-   * Content-based recommendation
-   * Collaborative filtering
+   Systems](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter11-Recommender-Systems.pdf) (Draft from 8 November 2015)
+   * Content-based Recommendation
+   * Collaborative Filtering
+   * Evaluation
    * Exercises
 
 ## Part III: Text Data Analysis
@@ -165,46 +166,46 @@ companion structured data, and would prefer analyzing all the data for solving
 a particular application problem.
 
  - [Overview of Text Data
-   Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter11-Text-Analysis-Overview.pdf) (Draft from 3 November 2015)
-   * Overview of text mining and data analytics
-   * Text vs. non-text data: humans as subjective sensors
+   Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Text-Data-Analysis-Overview.pdf) (Draft from 8 November 2015)
+   * Overview of Text Mining and Data Analytics
+   * Text vs. Non-text Data: Humans as Subjective Sensors
 
- - Word Association Mining
-
- - [Text
-   Clustering](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Clustering.pdf) (Draft from 21 October 2015)
-   * Overview of clustering techniques
-   * Document clustering
-   * Term clustering
+ - [Word Association
+   Mining](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter13-Word-Association-Mining.pdf) (Draft from 8 November 2015) **(still needs proofreading)**
+   * General Idea of Word Association Mining
+   * Discovery of Paradigmatic Relations
+   * Discovery of Syntagmatic Relations
    * Evaluation
    * Exercises
 
  - [Text
-   Categorization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter12-Categorization.pdf) (Draft from 9 June 2015)
-   * Overview of text categorization
-   * Features for text categorization
-   * Classification algorithms
+   Clustering](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter14-Clustering.pdf) (Draft from 8 November 2015)
+   * Overview of Clustering Techniques
+   * Document Clustering
+   * Term Clustering
    * Evaluation
+   * Exercises
+
+ - [Text
+   Categorization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter15-Text-Categorization.pdf) (Draft from 8 November 2015)
+   * Overview of Text Categorization
+   * Features for Text Categorization
+   * Classification Algorithms
+   * Evaluation
+   * Exercises
+
+ - [Text
+   Summarization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter16-Summarization.pdf) (Draft from 8 November 2015)
+   * Overview of Text Summarization Techniques
+   * Extractive Text Summarization
+   * Abstractive Text Summarization
+   * Evaluation
+   * Applications
    * Exercises
 
  - Opinion Mining and Sentiment Analysis
 
  - Topic Analysis
-   * Overview of topic analysis techniques
-   * Basic topic models
-   * Advanced topic models
-   * Evaluation
-   * Applications
-   * Exercises
-
- - [Text
-   Summarization](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter14-Summarization.pdf) (Draft from 23 June 2015)
-   * Overview of text summarization techniques
-   * Extractive text summarization
-   * Abstractive text summarization
-   * Evaluation
-   * Applications
-   * Exercises
 
  - Joint Analysis of Text and Structured Data
    * Context and companion structured data of text
