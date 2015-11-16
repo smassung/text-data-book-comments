@@ -203,9 +203,15 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Opinion Mining and Sentiment Analysis
-
  - Topic Analysis
+
+ - [Opinion Mining and Sentiment
+   Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter18-Sentiment-Analysis.pdf) (Draft from 16 November 2015)
+   * Sentiment Classification
+   * Ordinal Regression
+   * Latent Aspect Rating Analysis
+   * Evaluation
+   * Exercises
 
  - Joint Analysis of Text and Structured Data
    * Context and companion structured data of text
