@@ -203,7 +203,14 @@ a particular application problem.
    * Applications
    * Exercises
 
- - Topic Analysis
+ - [Topic
+   Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter17-Topic-Analysis.pdf) (Draft from 21 November 2015)
+   * Topics as Terms
+   * Topics as Word Distributions
+   * Mining One Topic from Text
+   * Probabilistic Latent Semantic Analysis
+   * Evaluation
+   * Exercises
 
  - [Opinion Mining and Sentiment
    Analysis](http://sifaka.cs.uiuc.edu/ir/textdatabook/chapters/text-data-book-draft-chapter18-Sentiment-Analysis.pdf) (Draft from 16 November 2015)
