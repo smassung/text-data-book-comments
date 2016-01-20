@@ -29,4 +29,4 @@ this book!
 ## Complete Draft
 
 [Download the first complete draft of the book
-here](http://sifaka.cs.uiuc.edu/ir/textdatabook/files/text-data-book-draft-2015-12-02.pdf) (2 December, 2015). We'll no longer be releasing individual chapters.
+here](http://sifaka.cs.uiuc.edu/ir/textdatabook/files/text-data-book-draft-2016-01-19.pdf) (19 January, 2016). We'll no longer be releasing individual chapters.
