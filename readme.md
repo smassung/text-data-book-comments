@@ -28,5 +28,9 @@ this book!
 
 ## Complete Draft
 
-[Download the first complete draft of the book
-here](http://sifaka.cs.uiuc.edu/ir/textdatabook/files/text-data-book-draft-2016-01-19.pdf) (19 January, 2016). We'll no longer be releasing individual chapters.
+We had to move the PDF to an access-restricted area. Apologies for any
+inconvenience. Please contact me at `massung1` at `illinois` dot edu for further
+information.
+
+[Download the draft
+here](https://wiki.cites.illinois.edu/wiki/pages/viewpage.action?pageId=584124336).
