@@ -25,12 +25,3 @@ a new issue, you can select one or more of the following labels for it:
 
 We will add more issue labels if necessary. Thanks for your help in creating
 this book!
-
-## Complete Draft
-
-We had to move the PDF to an access-restricted area. Apologies for any
-inconvenience. Please contact me at `massung1` at `illinois` dot edu for further
-information.
-
-[Download the draft
-here](https://wiki.cites.illinois.edu/wiki/pages/viewpage.action?pageId=584124336).
